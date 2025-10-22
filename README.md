@@ -1,6 +1,6 @@
 # Proyecto en Laravel con plantilla Bootstrap (Dashboard)
 
-**Autora:** María Pérez López 
+**Autora:** María Pérez López  
 **Asignatura:** DWESE - Desarrollo Web en Entorno Servidor  
 **Centro:** IES Zaidín Vergeles  
 **Fecha:** Octubre 2025  
